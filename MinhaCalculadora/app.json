@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MinhaCalculadora",
+    "slug": "MinhaCalculadora",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "minhacalculadora",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"]
+  }
+}
